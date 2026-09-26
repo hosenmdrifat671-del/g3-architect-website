@@ -117,6 +117,30 @@ margin-right: 30px;
 #quick-list{
   font-weight: 500;
 }
+.fuatures{
+  display: flex;
+}
+/* feature-section-related styles */
+
+.features{
+  gap:100px;
+}
+#feature-section-title{
+border-left: 5px solid #ff900E;
+padding-left: 20px;
+}
+.feature-card{
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin:20px ;
+}
+.feature-card .feature-title{
+  font-weight: 600;
+  font-family: 1,25rem;
+  margin: 0px;
+  margin-bottom: 0px;
+  padding: 30px;
+}
 
 /* some facts related styles */
 .facts-container{
